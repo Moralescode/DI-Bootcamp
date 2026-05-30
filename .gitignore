@@ -1,0 +1,12 @@
+# Virtual environments
+.venv/
+.venv-1/
+DI_BOOTCAMP_2026/env/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
