@@ -1,0 +1,2 @@
+*.ipynb filter=notebook-clean
+*.xls filter=lfs diff=lfs merge=lfs -text

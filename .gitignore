@@ -1,0 +1,54 @@
+# Images - not needed in git (data is local)
+*.jpg
+*.jpeg
+*.png
+*.bmp
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Model files (large)
+*.h5
+*.pkl
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Secrets / API keys (NE JAMAIS commiter)
+.env
+.env.local
+*.env.local
+
+# Python virtual environments
+.venv/
+.venv-*/
+.mcp-101/.venv/
+venv/
+ENV/
+env/
+
+# IDE / éditeur
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS / temporaires génériques
+Thumbs.db
+Desktop.ini
+.DS_Store
+*.swp
+*.swo
+
+# Backup git / rewrites
+.git-backup-*/
+.git-rewrite/
+
+
+# Logs / temporaires
+*.log
+*.tmp
+*.temp
+*.bak
+*.orig

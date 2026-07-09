@@ -1,0 +1,190 @@
+{
+  "top_states": {
+    "California": 457687.63,
+    "New York": 310876.27,
+    "Texas": 170188.05,
+    "Washington": 138641.27,
+    "Pennsylvania": 116511.91,
+    "Florida": 89473.71,
+    "Illinois": 80166.1,
+    "Ohio": 78258.14,
+    "Michigan": 76269.61,
+    "Virginia": 70636.72
+  },
+  "top_state_names": [
+    "California",
+    "New York",
+    "Texas",
+    "Washington",
+    "Pennsylvania",
+    "Florida",
+    "Illinois",
+    "Ohio",
+    "Michigan",
+    "Virginia"
+  ],
+  "ny_revenue": 310876.27,
+  "ca_revenue": 457687.63,
+  "ny_profit": 74038.55,
+  "ca_profit": 76381.39,
+  "ca_ny_diff_revenue": 146811.36,
+  "ca_ny_diff_profit": 2342.84,
+  "best_ny_customer": "Tom Ashbrook",
+  "best_ny_sales": 13723.5,
+  "best_ny_profit": 4599.21,
+  "most_profitable_states": [
+    {
+      "State": "Arkansas",
+      "Profit": 4008.6870999999996,
+      "Profit_Margin": 34.32644695683298
+    },
+    {
+      "State": "Maine",
+      "Profit": 454.48619999999994,
+      "Profit_Margin": 35.77138674411466
+    },
+    {
+      "State": "Minnesota",
+      "Profit": 10823.1874,
+      "Profit_Margin": 36.24261807612392
+    },
+    {
+      "State": "Delaware",
+      "Profit": 9977.3748,
+      "Profit_Margin": 36.34603373733824
+    },
+    {
+      "State": "District of Columbia",
+      "Profit": 1059.5892999999999,
+      "Profit_Margin": 36.9836615451201
+    }
+  ],
+  "loss_states": [
+    {
+      "State": "Texas",
+      "Profit": -25729.35630000001,
+      "Profit_Margin": -15.118192455324623
+    },
+    {
+      "State": "Ohio",
+      "Profit": -16971.376600000003,
+      "Profit_Margin": -21.686405359820995
+    },
+    {
+      "State": "Pennsylvania",
+      "Profit": -15559.960300000004,
+      "Profit_Margin": -13.354823353086454
+    },
+    {
+      "State": "Illinois",
+      "Profit": -12607.887000000004,
+      "Profit_Margin": -15.727204944144665
+    },
+    {
+      "State": "North Carolina",
+      "Profit": -7490.912200000002,
+      "Profit_Margin": -13.472097019514933
+    },
+    {
+      "State": "Colorado",
+      "Profit": -6527.857900000002,
+      "Profit_Margin": -20.330864300423965
+    },
+    {
+      "State": "Tennessee",
+      "Profit": -5341.6936,
+      "Profit_Margin": -17.421289299580618
+    },
+    {
+      "State": "Arizona",
+      "Profit": -3427.924600000001,
+      "Profit_Margin": -9.715788512108485
+    },
+    {
+      "State": "Florida",
+      "Profit": -3399.3017000000036,
+      "Profit_Margin": -3.7992185369136635
+    },
+    {
+      "State": "Oregon",
+      "Profit": -1190.4705,
+      "Profit_Margin": -6.829558003918272
+    }
+  ],
+  "pareto_profit": {
+    "total_customers": 793,
+    "top_20pct_count": 158,
+    "pct_contributed": 81.43
+  },
+  "top_cities_sales": {
+    "New York City": 256368.16,
+    "Los Angeles": 175851.34,
+    "Seattle": 119540.74,
+    "San Francisco": 112669.09,
+    "Philadelphia": 109077.01,
+    "Houston": 64504.76,
+    "Chicago": 48539.54,
+    "San Diego": 47521.03,
+    "Jacksonville": 44713.18,
+    "Springfield": 43054.34,
+    "Detroit": 42446.94,
+    "Columbus": 38706.24,
+    "Newark": 28576.12,
+    "Columbia": 25283.32,
+    "Lafayette": 25036.2,
+    "Jackson": 24963.86,
+    "San Antonio": 21843.53,
+    "Burlington": 21668.08,
+    "Arlington": 20214.53,
+    "Dallas": 20131.93
+  },
+  "top_cities_profit": {
+    "New York City": 62036.98,
+    "Los Angeles": 30440.76,
+    "Seattle": 29156.1,
+    "San Francisco": 17507.39,
+    "Detroit": 13181.79,
+    "Lafayette": 10018.39,
+    "Jackson": 7581.68,
+    "Atlanta": 6993.66,
+    "Minneapolis": 6824.58,
+    "San Diego": 6377.2,
+    "Springfield": 6200.7,
+    "Columbus": 5897.1,
+    "Newark": 5793.76,
+    "Columbia": 5606.12,
+    "Richmond": 5567.25,
+    "Providence": 5505.66,
+    "Henderson": 4911.86,
+    "Arlington": 4169.7,
+    "Lakewood": 3234.03,
+    "Milwaukee": 2793.09
+  },
+  "top_customers_sales": {
+    "Sean Miller": 25043.05,
+    "Tamara Chand": 19052.22,
+    "Raymond Buch": 15117.34,
+    "Tom Ashbrook": 14595.62,
+    "Adrian Barton": 14473.57,
+    "Ken Lonsdale": 14175.23,
+    "Sanjit Chand": 14142.33,
+    "Hunter Lopez": 12873.3,
+    "Sanjit Engle": 12209.44,
+    "Christopher Conant": 12129.07,
+    "Todd Sumrall": 11891.75,
+    "Greg Tran": 11820.12,
+    "Becky Martin": 11789.63,
+    "Seth Vernon": 11470.95,
+    "Caroline Jumper": 11164.97,
+    "Clay Ludtke": 10880.55,
+    "Maria Etezadi": 10663.73,
+    "Karen Ferguson": 10604.27,
+    "Bill Shonely": 10501.65,
+    "Edward Hooks": 10310.88
+  },
+  "pareto_sales": {
+    "total_customers": 793,
+    "top_20pct_count": 158,
+    "pct_contributed": 47.96
+  }
+}
